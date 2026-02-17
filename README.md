@@ -1,8 +1,10 @@
 # Kaggle Competition — 2EL1730 Machine Learning Project 2026
 
 ## Link
-- **Rapport (PDF)** : [reports/armandcoiffe_coiffe_morales_grille.pdf](reports/armandcoiffe_coiffe_morales_grille.pdf)
-- **Notebook HTML** : [docs/index.html](docs/index.html)
+- **Rapport (PDF)** : https://github.com/Morales-Mathieu/kaggle-change-detection-ml/blob/main/reports/armandcoiffe_coiffe_morales_grille.pdf
+
+- **Notebook HTML** : https://morales-mathieu.github.io/kaggle-change-detection-ml/
+
 
 
 ---

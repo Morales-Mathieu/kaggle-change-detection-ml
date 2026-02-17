@@ -1,0 +1,20 @@
+﻿.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# data (ne pas versionner)
+data/raw/
+data/processed/
+
+# outputs (soumissions, artefacts)
+outputs/
+reports/figures/
+reports/tables/
+
+# modèles
+*.pkl
+*.joblib
+
+# env
+.env

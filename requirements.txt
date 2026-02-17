@@ -1,0 +1,15 @@
+﻿numpy
+pandas
+geopandas
+shapely
+pyarrow
+
+scikit-learn
+xgboost
+
+matplotlib
+seaborn
+plotly
+
+tqdm
+joblib

@@ -7,7 +7,7 @@
 
 ---
 
-## Kaggle (Challenge)
+## Kaggle competition (Challenge)
 
 ### Overview
 Analysing changes in multi-image, multi-date remote sensing data helps us to discover and understand global conditions. This challenge uses satellite imagery-derived geographical features. The data has been processed using computer vision techniques and is ready for exploration using machine learning methods.
